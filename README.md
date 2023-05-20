@@ -1,2 +1,2 @@
 # Bank-Management-System
-Project done using basics of C programming
+Project done using basic OOP
